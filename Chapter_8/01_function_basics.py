@@ -12,7 +12,16 @@ from there the concept of function arises.
 # Syntax ->
 '''
 
-def FUNCTION_NAME(PARAMETER):
+def FUNCTION_NAME(PARAMETER):                -> function definition
     #STATEMENT
     
 '''
+
+# Function_name()        -> function call
+
+# Example :-
+
+def greet():                      # function definition
+    print("Good Morning")
+
+greet()                           # function call
